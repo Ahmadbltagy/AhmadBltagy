@@ -18,12 +18,13 @@
 
 <a href="https://www.linkedin.com/in/ahmadbltagy/" target="_blank"><img src="https://img.shields.io/badge/-Ahmad%20Elbeltagy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/AhmadBltagy" target="_blank"><img src="https://img.shields.io/badge/-Ahmad%20Elbeltagy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
 ### 🛠 &nbsp;Tech Stack
 
-![CSharp](https://img.shields.io/badge/-CSharp%20-05122A?style=flat&logo=csharp)&nbsp;
+![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=csharp&logoColor=#239120)&nbsp;
 ![Dotnet](https://img.shields.io/badge/-.NET-512BD4)&nbsp;
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?logo=typescript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
