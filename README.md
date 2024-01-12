@@ -10,7 +10,7 @@
 </p> 
 
 - 🏢 I'm a Software Engineer | Full Stack Web developer  
-- 💬 Ask me about my experience with JavaScript, Angular, and NodeJS, or anything related to web development.
+- 💬 Ask me about my experience with JavaScript, Angular, and .NET or anything related to web development.
 
 ### Connect with Me :
 
